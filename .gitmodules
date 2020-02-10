@@ -20,3 +20,7 @@
 	url = https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI.git
 [submodule "0. Other/Pluralsight courses/ImplementingAdvancedRESTfulConcernsAspNetCore3"]
 	url = https://github.com/KevinDockx/ImplementingAdvancedRESTfulConcernsAspNetCore3.git
+[submodule "2. C#/1. xUnit/GameEngine"]
+	url = https://github.com/sbailleul/MyGameEngine.git
+[submodule "0. Other/Pluralsight courses/BuildingRESTfulAPIAspNetCore3"]
+	url = https://github.com/KevinDockx/BuildingRESTfulAPIAspNetCore3.git
