@@ -16,3 +16,7 @@
 	url = https://github.com/sbailleul/MyOdeToFood.git
 [submodule "3. Java/1. Java EE/0. Spring Boot/Microcommerce"]
 	url = https://github.com/sbailleul/Microcommerce.git
+[submodule "0. Other/Pluralsight courses/DocumentingAspNetCoreApisWithOpenAPI"]
+	url = https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI.git
+[submodule "0. Other/Pluralsight courses/ImplementingAdvancedRESTfulConcernsAspNetCore3"]
+	url = https://github.com/KevinDockx/ImplementingAdvancedRESTfulConcernsAspNetCore3.git
