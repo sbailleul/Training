@@ -1,0 +1,18 @@
+[submodule "1. Javascript/0. Angular CLI/mon-projet-angular"]
+	url = https://github.com/sbailleul/Mon-projet-Angular.git
+[submodule "1. Javascript/0. Angular CLI/tpBlog"]
+	url = https://github.com/sbailleul/TP-Blog.git
+[submodule "2. C#/0. WebAPI/AlgoApi"]
+	url = https://github.com/sbailleul/AlgoApi.git
+[submodule "2. C#/0. WebAPI/CommicsManager"]
+	url = https://github.com/sbailleul/CommicsManager.git
+[submodule "2. C#/0. WebAPI/MyCarvedRock"]
+	url = https://github.com/sbailleul/MyCarvedRock.git
+[submodule "2. C#/0. WebAPI/MyCourseLibrary"]
+	url = https://github.com/sbailleul/MyCourseLibrary.git
+[submodule "2. C#/0. WebAPI/MyLibrary"]
+	url = https://github.com/sbailleul/MyLibrary.git
+[submodule "2. C#/0. WebAPI/MyOdeToFood"]
+	url = https://github.com/sbailleul/MyOdeToFood.git
+[submodule "3. Java/1. Java EE/0. Spring Boot/Microcommerce"]
+	url = https://github.com/sbailleul/Microcommerce.git
